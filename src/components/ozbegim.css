@@ -1,0 +1,19 @@
+.Uzbegim{
+    background-image: url("bino.png");
+
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 550px;
+}
+.BB button{
+    border-radius: 40px;
+    font-size: 20px;
+}
+.AA button{
+    border-radius: 20px;
+    font-size: 14px;
+    margin-left:-30px;
+}
+.footer{
+    background-image: url("Rectangle 5.png");
+}
